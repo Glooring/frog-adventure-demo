@@ -9,7 +9,7 @@ Play the demo on Vercel using the following link: [Frog Adventure - Demo](https:
 ## How to Play
 
 - **Objective**: Collect keys, avoid or defeat enemies, and navigate through levels filled with obstacles. Unlock secret passageways by collecting all fruits.
-- **Controls**: Move, jump, and wall-jump through increasingly challenging levels, using both keyboard and controller inputs.
+- **Controls**: Move, jump, and wall-jump through increasingly challenging levels, using both keyboard and controller inputs. 
 
 ---
 
