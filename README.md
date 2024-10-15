@@ -2,7 +2,7 @@
 
 ## Demo
 
-Play the demo on Vercel using the following link: [Frog Adventure - Demo](https://your-vercel-demo-link.vercel.app)
+Play the demo on Vercel using the following link: [Frog Adventure - Demo](https://frog-adventure-demo.vercel.app/)
 
 ---
 
@@ -64,29 +64,32 @@ Play the demo on Vercel using the following link: [Frog Adventure - Demo](https:
 
 ---
 
+## Controls
+
+### On Desktop
+
+- **Move Left/Right**: **Arrow Keys**.
+- **Jump**: **Up Arrow** or **X**.
+- **Pause**: **Esc** or UI button.
+
+### On Mobile
+
+- **Move**: On-screen touch buttons for left and right movement.
+- **Jump**: Dedicated touch button.
+- **Pause**: Pause button on the screen.
+
+---
+
 ## Asset Usage
 
 To facilitate quick development, the following free asset packs from itch.io were used:
 
 - **[Pixel Adventure 1](https://pixelfrog-assets.itch.io/pixel-adventure-1)**: Used for initial level design and basic game mechanics.
 - **[Pixel Adventure 2](https://pixelfrog-assets.itch.io/pixel-adventure-2)**: Used for enemy sprites, offering a range of characters for the player to interact with.
-
+- **Soundtrack**:
+  - **[Soundtrack 1](https://www.youtube.com/watch?v=oMgQJEcVToY)**
+  - **[Soundtrack 2](https://www.youtube.com/watch?v=TM14q3UHYSg)**
 In the future, original assets will replace these placeholder graphics to create a unique visual style for the game.
-
----
-
-## Controls
-
-### Desktop
-
-- **Move**: *A* and *D* or analog stick on a controller.
-- **Jump**: *Space* or controller button.
-- **Wall Jump**: Jump off walls by pressing *Space* again after contacting a wall.
-
-### Mobile
-
-- **Move**: On-screen buttons for left and right movement.
-- **Jump**: Dedicated touch button for jumping.
 
 ---
 
