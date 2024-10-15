@@ -1,7 +1,5 @@
 # Frog Adventure
 
-**Frog Adventure** is an exciting 2D platformer where players control one of four characters. The game combines classic platformer elements with modern mechanics, offering challenges through enemies, obstacles, and complex jumps. Players must collect keys, avoid or defeat enemies, and navigate difficult levels to progress to the next stage.
-
 ## Demo
 
 Play the demo on Vercel using the following link: [Frog Adventure - Demo](https://your-vercel-demo-link.vercel.app)
