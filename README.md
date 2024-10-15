@@ -89,6 +89,7 @@ To facilitate quick development, the following free asset packs from itch.io wer
 - **Soundtrack**:
   - **[Soundtrack 1](https://www.youtube.com/watch?v=oMgQJEcVToY)**
   - **[Soundtrack 2](https://www.youtube.com/watch?v=TM14q3UHYSg)**
+
 In the future, original assets will replace these placeholder graphics to create a unique visual style for the game.
 
 ---
